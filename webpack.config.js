@@ -2,7 +2,7 @@ const path = require('path');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const HTMLWebpackPlugin = require('html-webpack-plugin');
 const CopyPlugin = require('copy-webpack-plugin');
-const ASSET_PATH = process.env.ASSET_PATH || '/';
+const ASSET_PATH = process.env.ASSET_PATH || '';
 
 module.exports = {
   mode: 'development',

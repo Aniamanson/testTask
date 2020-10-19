@@ -305,25 +305,25 @@ template {
 
 @font-face {
   font-family: 'Road Radio Regular';
-  src: url(/fonts/RoadRadio.eot) format("embedded-opentype"), url(/fonts/RoadRadio.woff) format("woff"), url(/fonts/RoadRadio.ttf) format("truetype");
+  src: url(fonts/RoadRadio.eot) format("embedded-opentype"), url(fonts/RoadRadio.woff) format("woff"), url(fonts/RoadRadio.ttf) format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'Graphik LCG Regular';
-  src: local("Graphik LCG Regular"), local("Graphik-LCG-Regular"), url(/fonts/GraphikLCG-Regular.woff2) format("woff2"), url(/fonts/GraphikLCG-Regular.woff) format("woff"), url(/fonts/GraphikLCG-Regular.ttf) format("truetype");
+  src: local("Graphik LCG Regular"), local("Graphik-LCG-Regular"), url(fonts/GraphikLCG-Regular.woff2) format("woff2"), url(fonts/GraphikLCG-Regular.woff) format("woff"), url(fonts/GraphikLCG-Regular.ttf) format("truetype");
   font-weight: 400;
   font-style: normal; }
 
 @font-face {
   font-family: 'Golos Text Regular';
-  src: local("Golos Text Regular"), local("Golos-Text-Regular"), url(/fonts/GolosText-Regular.woff2) format("woff2"), url(/fonts/GolosText-Regular.woff) format("woff"), url(/fonts/GolosText-Regular.ttf) format("truetype");
+  src: local("Golos Text Regular"), local("Golos-Text-Regular"), url(fonts/GolosText-Regular.woff2) format("woff2"), url(fonts/GolosText-Regular.woff) format("woff"), url(fonts/GolosText-Regular.ttf) format("truetype");
   font-weight: 400;
   font-style: normal; }
 
 @font-face {
   font-family: 'Akzidenz-Grotesk Regular';
-  src: local("Akzidenz-Grotesk Pro Regular"), local("Akzidenz-Grotesk-Pro-Regular"), url(/fonts/AkzidenzGroteskPro-Regular.woff2) format("woff2"), url(/fonts/AkzidenzGroteskPro-Regular.woff) format("woff"), url(/fonts/AkzidenzGroteskPro-Regular.ttf) format("truetype");
+  src: local("Akzidenz-Grotesk Pro Regular"), local("Akzidenz-Grotesk-Pro-Regular"), url(fonts/AkzidenzGroteskPro-Regular.woff2) format("woff2"), url(fonts/AkzidenzGroteskPro-Regular.woff) format("woff"), url(fonts/AkzidenzGroteskPro-Regular.ttf) format("truetype");
   font-weight: 400;
   font-style: normal; }
 
@@ -663,7 +663,7 @@ header .header__headers {
             display: inline-block;
             width: 10px;
             height: 10px;
-            background-image: url(/img/check.svg);
+            background-image: url(img/check.svg);
             background-repeat: no-repeat;
             background-size: contain;
             position: absolute;
